@@ -1063,7 +1063,6 @@ class _PortfolioHomePageState extends State<PortfolioHomePage>
     SkillData('Git', 0.92, nebulaPurple, Icons.account_tree),
     SkillData('APIs', 0.87, cosmicBlue, Icons.api),
     SkillData('Testing', 0.80, stellarPink, Icons.science),
-    SkillData('DevOps', 0.75, galaxyGreen, Icons.settings_applications),
   ];
 
   Widget _buildCosmicSkillCard(SkillData skill) {
